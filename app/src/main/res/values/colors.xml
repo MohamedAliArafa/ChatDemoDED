@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c6af6c</color>
+    <color name="colorPrimaryDark">#a08d49</color>
+    <color name="colorAccent">#c6af6c</color>
+
+    <!-- tab style-->
+
+    <!-- AJMANEYE -->
+    <color name="eyeColorPrimary">#8E724A</color>
+    <color name="eyeColorPrimaryDark">#8E724A</color>
+    <color name="eyeColorAccent">#8E724A</color>
+    <color name="ongoing">#6DE0F2</color>
+    <color name="closed">#D0494F</color>
+
+
+
+    <color name="bg_tab_selected">#c8b070</color>
+    <color name="accent_orange">#e7953f</color>
+    <color name="accent_blue">#81c8f6</color>
+
+    <color name="bg_light_red">#d0494f</color>
+    <color name="bg_light_orange">#fa6127</color>
+    <color name="bg_light_green">#a0c953</color>
+    <color name="bg_dark_red">#ee1b24</color>
+    <color name="bg_light_beige">#d1c299</color>
+    <color name="bg_light_royal">#7f8084</color>
+    <color name="bg_light_brown">#93705a</color>
+    <color name="bg_dark_blue">#009a8f</color>
+    <color name="bg_gray_light">#e3e3e3</color>
+    <color name="bg_red_dark">#a60047</color>
+
+    <color name="gray">#aeaeae</color>
+    <color name="gray_dark">#b0b0b0</color>
+    <color name="gray_darker">#737373</color>
+    <color name="gray_darken">#4b4b4b</color>
+    <color name="gray_light">#d5d5d5</color>
+    <color name="gray_lighter">#ededed</color>
+
+    <color name="red">#d61366</color>
+    <color name="brown">#e16a2c</color>
+    <color name="blue">#071689</color>
+    <color name="beige">#b38877</color>
+    <color name="cyan">#13c0d7</color>
+
+    <color name="prim_color">#bec6af6c</color>
+
+    <color name="float_transparent">#00000000</color>
+    <!--<color name="custom_float_bg">#96333333</color>-->
+    <color name="custom_float_bg">#F27474</color>
+
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <!--<color name="sweet_dialog_bg_color_dark">#f0283135</color>-->
+    <color name="sweet_dialog_bg_color_dark">#e6222222</color>
+
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <color name="title_color">#575757</color>
+    <color name="title_color_dark">#fff</color>
+    <color name="message_color">#797979</color>
+    <color name="message_color_dark">#fff</color>
+
+    <!-- color from original game-->
+    <color name="main_green_color">#6bd505</color>
+    <color name="main_green_stroke_color">#60bf04</color>
+    <color name="main_orange_color">#f77805</color>
+    <color name="main_orange_stroke_color">#e66f04</color>
+    <color name="main_orange_light_color">#f7b90d</color>
+    <color name="main_orange_light_stroke_color">#e4ab0c</color>
+    <color name="main_blue_color">#2469df</color>
+    <color name="main_blue_stroke_color">#205ec7</color>
+    <color name="main_cyan_color">#05d9f7</color>
+    <color name="main_cyan_stroke_color">#05c7e2</color>
+
+    <color name="main_disabled_color">#838383</color>
+    <color name="main_disabled_stroke_color">#707070</color>
+
+    <color name="snackbar_message">#FEFEFE</color>
+    <color name="snackbar_background_positive">#26A3DB</color>
+    <color name="snackbar_background_negative">#FCB033</color>
+
+
+</resources>

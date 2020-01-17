@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="about_ded">عن الدائرة</string>
+
+    <string name="account_settings">إعدادات الحساب</string>
+
+    <string name="active_license">الرخص السارية</string>
+    <string name="active_permits"> التصاريح السارية</string>
+
+    <string name="all_transaction">جميع المعاملات</string>
+
+    <string name="app_name">دائرة عجمان القتصاديهإ</string>
+
+    <string name="application_status">الإستعلام عن المعاملات</string>
+
+    <string name="arabic">العربية</string>
+
+    <string name="banned_licenses">ملغاة إدارياً</string>
+
+    <string name="business_activity_external_approval">تصاريح العمل الخارجية</string>
+    <string name="business_name_inquiry">إستعلام عن إسم النشاط</string>
+
+    <string name="cancel">إلغاء</string>
+
+    <string name="canceled_liceneses">الرخص الملغاة</string>
+
+    <string name="change_language">English</string>
+
+    <string name="check_inspection_status">التحقق من حالة التفتيش</string>
+    <string name="check_status">عرض حالة الطلب</string>
+
+    <string name="completed">المعاملات المنجزة</string>
+    <string name="completed_transactions">المعاملات المنتهية</string>
+
+    <string name="continue_guest">زائر</string>
+    <string name="continue_login">دخول</string>
+    <string name="continue_register">تسجيل</string>
+
+    <string name="dashboard">اللوحة المرئية</string>
+
+    <!--Online Services-->
+    <string name="e_services">الخدمات الإلكترونية</string>
+
+    <string name="english">الإنجليزية</string>
+
+    <string name="enter_application_number">مثال : 9015911</string>
+
+    <string name="estimate_new_license_fees">تقدير رسوم الترخيص الجديدة</string>
+    <string name="estimate_new_permit_fees">تقدير تكلفة تصريح جديد</string>
+    <string name="estimate_renew_license_fees">تكلفة تجديد</string>
+
+    <string name="expired_license">الرخص المنتهية</string>
+    <string name="expired_permits">التصاريح المنتهية</string>
+    <string name="expired_permits_report">تقرير التصاريح المنتهية</string>
+
+    <string name="external_approval">تصريح خارجى</string>
+
+    <string name="guest">زائر</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="home_screen">الصفحة الرئيسية</string>
+
+    <string name="how_would_you_like_to_continue">كيف تريد الإستمرار؟</string>
+
+    <string name="inquiries">إستعلامات</string>
+
+    <string name="invest_in_ajman">استثمر في عجمان</string>
+
+    <string name="issue_new">إصدار</string>
+
+    <string name="latest_news">أخر الأخبار</string>
+
+    <string name="license">رخصة</string>
+    <string name="license_information_inquiry">إستعلام بيانات الرخصة</string>
+
+    <string name="link_external_license">ربط رخصة خارجية</string>
+
+    <string name="list_of_licenses">فائمة الرخص</string>
+
+    <string name="login">تسجيل دخول</string>
+
+    <string name="logout">تسجيل خروج</string>
+
+    <string name="matched_isic_activites_by_old_activity">النشاطات المطابقة للنشاط القديم</string>
+
+    <!--AboutDED Fragment-->
+    <string name="message">الرسالة</string>
+    <string name="message_body">
+        تحقيق إقتصاد مزدهر لرفاهية سكان الإمارة من خلال التخطيط وإعداد السياسات و التشريعات و التنظيم و الرقابة و الترويج الإقتصادي
+    </string>
+
+    <string name="most_used_services">الخدمات الأكثر استخداماً</string>
+
+    <string name="new_certificate">إصدار شهادة</string>
+    <string name="new_license">إصدار رخصة</string>
+    <string name="new_permit">" إصدار تصريح"</string>
+    <string name="new_permit_conditions">شروط إصدار تصريح</string>
+
+    <string name="online_help">المساعدة الإلكترونية</string>
+    <!--Main Activity Fragment-->
+    <string name="online_services">الخدمات الإلكترونية</string>
+
+    <string name="others">أخرى</string>
+
+    <string name="password">كلمة المرور</string>
+
+    <string name="pending">قيد الإجراء</string>
+
+    <string name="permit">تصريح</string>
+    <string name="permit_terms_conditions">شروط و أحكام التصريح</string>
+
+    <string name="print_license">طباعة الرخصة</string>
+
+    <string name="register">مستخدم جديد</string>
+
+    <string name="rejected">المعاملات المرفوضة</string>
+
+    <string name="renew">تجديد</string>
+    <string name="renew_license">تجديد رخصة</string>
+
+    <string name="reports">تقارير</string>
+
+    <string name="service_centers_location">مراكز الخدمة</string>
+
+    <string name="suggestions">"المقترحات "</string>
+
+    <string name="tasks">المعاملات</string>
+
+    <string name="the_emirate_of_ajman_is_characterized_by_a_strategic_location_a_well_developed_infrastructure_comprising_port_roads_transport_and_industrial">
+تتميز إمارة عجمان بموقع استراتيجى، و بنية تحتية متطورة تشمل الموانئ والطرق والنقل والصناعة
+    </string>
+
+    <string name="title_activity_maps">خريطة</string>
+
+    <string name="total_napplications">جميع\nالمعاملات</string>
+    <string name="total_nlicense">جميع\nالرخص</string>
+    <string name="total_permits">جميع\nالتصاريح</string>
+
+    <string name="trade_license_inquiry">إستعلام رخصة تجارية</string>
+    <string name="trade_name_availability">التحقق من الإسم التجارى</string>
+    <string name="trade_name_reservation">حجز الاسم التجارى</string>
+
+    <string name="transaction_in_process">إستكمال المعاملات</string>
+    <string name="transaction_status">حالة المعاملة</string>
+    <string name="transaction_under_review">تحت عمليه الدفع</string>
+
+    <string name="under_process">تحت عملية الدفع</string>
+
+    <string name="username">إسم المستخدم</string>
+
+    <string name="valid_permits_report">تقرير التصاريح السارية</string>
+
+    <string name="value">القيم</string>
+    <string name="value_body">روح الفريق, الشفافية, إسعاد المتعاملين, الإبداع و الإبتكار</string>
+
+    <string name="view_my">قائمة</string>
+
+    <string name="vision">الرؤية</string>
+    <string name="vision_body">إقتصاد تنافسى متنوع لإستدامة التنمية في إمارة عجمان</string>
+    <string name="cancel_license">إلغاء رخصة</string>
+    <string name="canceled_permits">التصاريح الملغاة</string>
+    <string name="check_application_status">الاستعلام عن حالة معاملة</string>
+    <string name="ISIC_confirmation">الاستعلام عن موائمة انشطة الايزك</string>
+    <string name="initial_approval">إصدار موافقة مبدئية</string>
+    <string name="mock_license_no">رخصة رقم </string>
+    <string name="mock_limited_liability_company">شركه ذات مسئوليه محدوده</string>
+    <string name="mock_professional_license">الرخصة المهنية</string>
+    <string name="mock_issued_at">تاريخ الإصدار </string>
+    <string name="mock_expiry_at">تاريخ الإنتهاء </string>
+    <string name="complaints">الشكاوى</string>
+    <string name="call">إتصل</string>
+    <string name="want_to_make_a_call">الاتصال بمركز خدمة العملاء</string>
+    <string name="please_rate_our_service">كيف كانت تجربتك</string>
+    <string name="search">بحث</string>
+    <string name="change_account">تغيير الحساب</string>
+    <string name="change_default_language">تغيير اللغة المفضلة</string>
+    <string name="signup_comment">إنشاء حساب جديد</string>
+    <string name="ask_confirm">لم يتم تفعيله من خلال الموبايل</string>
+    <string name="wrong_auth">خطأ في أسم المستخدم أو كلمة المرور</string>
+    <string name="passport_no">رقم جواز السفر</string>
+    <string name="current_investor">مستثمر حالى</string>
+    <string name="address">عنوان</string>
+    <string name="nid_expiry_date">إنتهاء الهوية</string>
+    <string name="nid_no">رقم الهوية</string>
+    <string name="gender">نوع</string>
+    <string name="male">ذكر</string>
+    <string name="female">انثى</string>
+    <string name="full_name_ar">الاسم كامل بالعربية</string>
+    <string name="full_name_en">الاسم كامل بالانجليزية</string>
+    <string name="prefered_language">اللغة المفضلة</string>
+    <string name="mobile_no">رقم الهاتف (5xx xxx xxx)</string>
+    <string name="email_username">اسم المستخدم / البريد الإلكتروني</string>
+    <string name="registration">تسجيل مستخدم جديد</string>
+    <string name="passport_registered">جواز السفر مسجل من قبل</string>
+    <string name="nid_registered">رقم الهوية مسجل من قبل</string>
+    <string name="phone_registered">الهاتف مسجل من قبل</string>
+    <string name="already_registered">اسم المستخدم مسجل من قبل</string>
+    <string name="ok">موافق</string>
+    <string name="LOADING">تحميل</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="password_no_match">كلمة المرور لا تتطابق</string>
+    <string name="required_field">مطلوب</string>
+    <string name="select_nationality">إختر الجنسية</string>
+    <string name="select_stock_holder_type">صفة صاحب الحساب</string>
+    <string name="status_web_service">حالة الخدمة</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="confirm_account">تأكيد الحساب</string>
+    <string name="try_again">اعادة المحاولة</string>
+    <string name="code_verification_formula"># رقم تأكيد تطبيق عجمان هو : %s</string>
+    <string name="dialog_ok">موافق</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="thanks_rate">نشكركم على تقييم خدماتنا</string>
+    <string name="done">تم</string>
+    <string name="went_wrong">حدث خطأ ما</string>
+    <string name="email_validation">الرجاء إدخال بريد إلكتروني صحيح</string>
+    <string name="password_validation">من فضلك أدخل رقمك السري</string>
+    <string name="save_registration">تسجيل البيانات</string>
+    <string name="wrong_code">رقم خاطئ</string>
+    <string name="no_notification">ليس لديك أي إشعارات</string>
+    <string name="signup">إنشاء حساب جديد</string>
+    <string name="go_back_home">عودة إلى الصفحة الرئيسية</string>
+    <string name="neutral">محايد</string>
+    <string name="happy">سعيد</string>
+    <string name="upset">غير سعيد</string>
+    <string name="share_ajmanded">مشاركة</string>
+    <string name="no_internet">"لا يوجد إتصال "</string>
+    <string name="investor_guide">دليل المستثمر</string>
+    <string name="resend">إعادة إرسال</string>
+    <string name="next">التالى</string>
+    <string name="previous">السابق</string>
+    <string name="help">مساعدة</string>
+    <string name="news">الأخبار</string>
+    <string name="apply_for_a_job">التقديم علي وظيفة</string>
+    <string name="business_control">رقابة الاعمال التجارية</string>
+    <string name="customer_s_happiness_pledge">ميثاق اسعاد المتعاملين</string>
+    <string name="faq">الأسئلة الأكثر تكراراً</string>
+    <string name="service_centers">مراكز الخدمة</string>
+    <string name="service_list">قائمة الخدمات</string>
+    <string name="location">الموقع</string>
+    <string name="Establishment_name">اسم المنشأة</string>
+    <string name="licence_no">رقم الترخيص</string>
+    <string name="complaint">البلاغ</string>
+    <string name="notification_details">تفاصيل البلاغ</string>
+    <string name="address_on_map">العنوان على الخريطة</string>
+    <string name="re_detect_location">إعادة/تحديد الموقع</string>
+    <string name="add_record_voice">قم بتوثيق البلاغ عن طريق التسجيل الصوتي</string>
+    <string name="add_attachment">أضف المرفقات</string>
+    <string name="take_photo">التقط صورة</string>
+    <string name="send">إرسال البلاغ</string>
+    <string name="submit_notification">بلاغ جديد</string>
+    <string name="your_location">الموقع الحالي</string>
+    <string name="notification_type">نوع البلاغ</string>
+    <string name="something_wrong">حدث خطأ ما</string>
+    <string name="fill_all">إملأ جميع البيانات</string>
+    <string name="loading">تحميل</string>
+    <string name="request_no">رقم البلاغ</string>
+    <string name="ongoing_notification">البلاغات قيد التدقيق</string>
+    <string name="finished_notification">البلاغات المكتملة</string>
+    <string name="inquiry_notification">استعلام عن بلاغ</string>
+    <string name="choose">إختر</string>
+    <string name="rate">تقييم</string>
+    <string name="status">الحالة</string>
+    <string name="time_and_date">الوقت والتاريخ</string>
+    <string name="trade_name">الاسم التجاري</string>
+    <string name="district">المنطقة</string>
+    <string name="notification">البلاغ</string>
+    <string name="voice_record">تسجيل صوتي</string>
+    <string name="attachment">المرفقات</string>
+    <string name="inspection_result">نتيجة البلاغ</string>
+    <string name="enable_location">تفعيل الموقع</string>
+    <string name="ajmaneye">عين الدائرة</string>
+    <string name="note">ملاحظات</string>
+    <string name="not_satisfied">غير راض</string>
+    <string name="satisfied">راض</string>
+    <string name="evaluation">تم إرسال التقييم</string>
+    <string name="chat">محادثة</string>
+    <string name="notification_attention">تنوية : لابد من تحرير البلاغ من موقع البلاغ مباشرة</string>
+    <string name="close">إغلاق</string>
+    <string name="shake_content">للإبلاغ عن تجاوز أو مخالفة يرجى القيام برج الهاتف وسوف يتم فتح بلاغ جديد تلقائيا</string>
+    <string name="shake_phone">رج الهاتف</string>
+    <string name="ongoing">قيد التدقيق</string>
+    <string name="closed">تم التدقيق</string>
+    <string name="search_notification">بحث عن بلاغ</string>
+    <string name="new_notification">بلاغ جديد</string>
+    <string name="all_notification">كل البلاغات</string>
+    <string name="Notification_Result_Value_Solved">تم الحل</string>
+    <string name="Notification_Result_Value_Not_Solved">قيد التدقيق</string>
+    <string name="HOME_closed">منجزة</string>
+    <string name="notification_content">فى المنشأة:</string>
+    <string name="notification_no">رقم البلاغ</string>
+    <string name="new_service">خدمة جديدة</string>
+    <string name="you_can_shake_phone_to_open_a_new_notification">يمكنك القيام برج الهاتف وسوف يتم فتح بلاغ جديد تلقائيا</string>
+    <string name="please_login_first_to_use_the_new_service">الرجاء تسجبل الدخول أولا لإستخدام خدمة عين الدائرة</string>
+    <string name="be_an_ded_eye_by_reporting_any_violations_or_abuse">كن عينا للدائرة  بالإبلاغ عن أي تجاوز أو مخالفة</string>
+    <string name="sendrate">إرسال التقييم</string>
+    <string name="sop1_dialog_button">الذهاب للرئيسية</string>
+    <string name="sop1_dialog_content">حسابك لايحتوي علي مستوي توقيع معتمد, الرجاء زيارة أقرب منفذ خدمة لترقية حسابك في الهوية الرقمية</string>
+    <string name="sop1_dialog_title">تحذير</string>
+    <string name="user_cancel_login_error_msg">لم يتم تسجيل الدخول بنجاح</string>
+    <string name="sop1_Unverified_user_error_msg">حسابك غير معرف، الرجاء زيارة أقرب منفذ خدمة لترقية حسابك في الهوية الرقمية
+للمزيد من المعلومات، يرجى الاتصال على ٨٠٠٧٠</string>
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+    <string name="ded_eye">عيــن الدائـــرة</string>
+    <string name="to_report_violation">لللإبلاغ عن مخالفة أو تجاوز</string>
+    <string name="sop1_Unregistered_user_error_msg">اذا لم يكن لديك حساب يرجى الضغط على زر
+        \n
+        <b>إنشاء حساب جديد</b>
+        \n
+        أما إذا كان لديك حساب فيرجى الضغط على زر
+        \n
+        <b>إلغاء والتوجه إلى أقرب مركز خدمة لتحديث بياناتك</b></string>
+    <string name="sop1_dialog_create_button">إنشاء حساب  جديد</string>
+
+</resources>

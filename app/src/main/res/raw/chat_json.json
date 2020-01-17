@@ -1,0 +1,1526 @@
+﻿[
+  {
+    "messages": [
+      {
+        "text": "السلام عليكم ورحمة الله وبركاته",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "كيف أقدر أساعدك",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "إجراءات حجز اسم تجارى",
+        "code": 1
+      },
+      {
+        "message": "إجراءات تأسيس رخصة اقتصادية جديدة",
+        "code": 3
+      },
+      {
+        "message": "إجراءات تجديد رخصة اقتصادية",
+        "code": 8
+      },
+      {
+        "message": "إجراءات تعديل رخصة اقتصادية",
+        "code": 9
+      },
+      {
+        "message": "إجراءات إلغاء رخصة اقتصادية",
+        "code": 17
+      },
+      {
+        "message": "إجراءات التنازل",
+        "code": 21
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "أي من الأشكال القانونية التالية:",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "1. اصدار الرخصة",
+        "code": 2
+      },
+      {
+        "message": "2. تعديل الرخصة",
+        "code": 3
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. ججز الاسم المختار (عربى) او (اجنبى)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. تحديد النشاط الرئيسي",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. اختيار الشكل القانونى",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. تهيئة الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. بحث الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. دفع الرسوم (260 درهم)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. استلام/طباعة شهادة الحجز",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "أخرى",
+        "code": -2
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. رقم الرخصة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. نوع التعديل",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. تهيئة الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. بحث الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. دفع الرسوم (260 درهم)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. استلام/طباعة شهادة الحجز",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "فروع الشركات الخليجية",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "أخرى",
+        "code": -2
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "أي من الأشكال القانونية التالية",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "1. مؤسسة فردية",
+        "code": 5
+      },
+      {
+        "message": "2. وكيل خدمات",
+        "code": 6
+      },
+      {
+        "message": "3. الشركات",
+        "code": 7
+      },
+      {
+        "message": "أخرى",
+        "code": -2
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الاوراق المطلوبة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. شهادة حجز الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. تعبئة الطلب طباعة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة جواز وهوية المالك",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. رقم مكانى",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات التقديم:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب وتقديم المعاملة للتفتيش",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد موافقة التفتيش/دفع رسوم (160درهم) و اصدارشهادة الموافقة المبدأية",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. اصدار رسالة اللامانع NOC",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. التأكد من الموافقات المطلوبة(على حسب النشاط)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. تقديم كل الاوراق السابقة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. عقد الايجار المصدق دفع الرسوم المستحقة للرخصة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. استلام الرخصة عن طريق البريد الالكترونى",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً",
+        "code": 9
+      },
+      {
+        "message": "إعاده",
+        "code": 5
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الاوراق المطلوبة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. شهادة حجز الاسم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة جواز و هوية وكيل الخدمات (المواطن) مع وضوح الرقم الموحد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. صورة جواز و هوية و اقامة المالك مع وضوح الرقم الموحد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. رقم مكاني",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات التقديم:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب و تقديم المعاملة للموافقة الامنية ثم للتفتيش online",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد الموافقة الامنية و موافقة التفتيش التاكد من الغاء الاقامة السابقة للمالك او ارفاق رسالة لا مانع من محل الاقامة سارية المفعول",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع رسوم (160 درهم ) و اصدار شهادة الموافقة المبدأية ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. اصدار رسالة اللامانع NOC ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. التأكد من الموافقات المطلوبة (على حسب النشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. تقديم كل الاوراق السابقة عقد الايجار المصدق ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. دفع الرسوم المستحقة للرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8.استلام الرخصة  عقد وكيل الخدمات عن طريق البريد الالكتروني ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 6
+      },
+      {
+        "message": " اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية:",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الاوراق المطلوبة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. شهادة حجز الاسم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. تعبئة الطلب طباعة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة الجواز و الهوية للشريك (المواطن) مع وضوح الرقم الموحد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. صورة الجوازات و الهويات و الاقامات لكل الشركاء مع وضوح الرقم الموحد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. رقم مكاني",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات التقديم: ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب و تقديم المعاملة للموافقة الامنية ثم للتفتيش online",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد الموافقة الامنية و موافقة التفتيش التاكد من الغاء الاقامات السابقة للشركاء او ارفاق رسالة لا مانع من محل الاقامة سارية المفعول ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. التأكد من الموافقات المطلوبة (على حسب النشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. دفع رسوم (160 درهم ) و اصدار شهادة الموافقة المبدأية ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. اصدار رسالة اللامانع NOC ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. البدء في اجراءات عقد التاسيس بموجب رسالة كاتب العدل (اللامانع )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. تقديم كل الاوراق السابقة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8. عقد الايجار المصدق",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "9. صورة من عقد التاسيس",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "10. دفع الرسوم المستحقة للرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "11. استلام الرخصة عن طريق البريد الالكتروني ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 7
+      },
+      {
+        "message": " اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. ادخال رقم الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. ادخال البيانات المطلوبة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. ارفاق الموافقات الخارجية المطلوبة (على حسب النشاط ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. تحميل بيانات عقد الايجار  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. دفع الرسوم المستحقة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. استلام / طباعة الرخصة  ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 8
+      },
+      {
+        "message": " إجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "أي من الأشكال القانونية التالية : ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "1. اضافة نشاط / حذف نشاط  ",
+        "code": 10
+      },
+      {
+        "message": "2. تغيير النشاط  ",
+        "code": 11
+      },
+      {
+        "message": " 3. تغيير الموقع ",
+        "code": 12
+      },
+      {
+        "message": "4. تغيير الشكل القانوني (اضافة شريك او شركاء ) ",
+        "code": 13
+      },
+      {
+        "message": "5. اضافة شريك او شركاء الى شركة ",
+        "code": 14
+      },
+      {
+        "message": "6. تغيير او تعديل الاسم التجاري",
+        "code": 15
+      },
+      {
+        "message": "7. تغيير او تعديل بيانات رخصة ",
+        "code": 16
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور جوازات و هويات الافراد (الشركاء او المالك) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. رقم مكاني ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. ادخال المعاملة للتفتيش (فقط عند اضافة نشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد موافقة التفتيش / ارفاق الموافقات الخارجية المطلوبة (على حسب النشاط ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع الرسوم المستحقة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. استلام الرخصة عن طريق البريد الالكتروني ( في حالة المؤسسة الفردية او وكيل الخدمات ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. طباعة رسالة كاتب العدل و اتمام اجراءات عقد التاسيس في حالة الشركات ثم استلام الرخصة عن طريق البريد الالكتروني ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 10
+      },
+      {
+        "message": " اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. شهادة حجز الاسم التجاري بالنشاط الجديد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صور جوازات و هويات الافراد (الشركاء او المالك) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. صورة الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. رقم مكاني ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. ادخال المعاملة للتفتيش  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. عد موافقة التفتيش / ارفاق الموافقات الخارجية المطلوبة (على حسب النشاط )  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع الرسوم المستحقة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. نشر اعلان في الجريدة لمدة 15 يوم",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. بعد مرور فترة اعلان الجريدة (استلام الاعلان)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. التأكد من تغيير بيانات عقد الايجار ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. استلام الرخصة عن طريق البريد الالكتروني ( في حالة المؤسسة الفردية او وكيل الخدمات ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8. طباعة رسالة كاتب العدل و اتمام اجراءات عقد التاسيس في حالة الشركات  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "9. التأكد من تغيير بيانات عقد الايجار  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "10. ثم استلام الرخصة عن طريق البريد الالكتروني ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 11
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً ...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور جوازات و هويات الافراد (الشركاء او المالك)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. ادخال المعاملة للتفتيش",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد موافقة التفتيش / ارفاق الموافقات الخارجية المطلوبة (على حسب النشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع الرسوم المستحقة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. ارفاق عقد الايجار المصدق الجديد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. استلام الرخصة عن طريق البريد الالكتروني ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 12
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً ...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة + شهادة حجز الاسم التجاري في حالة الشركات + صور جوازات و هويات الافراد (الشركاء او المالك) + صورة الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب و تقديم المعاملة للموافقات الامنية ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "12. بعد الموافقة الأمنية : التاكد من الغاء الاقامات السابقة للشركاء  او ارفاق رسالة لا مانع من محل الاقامة سارية المفعول",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. التأكد من الموافقات المطلوبة (على حسب النشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. دفع الرسوم المستحقة  اصدار رسالة اللامانع NOC ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. نشر اعلان في الجريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. بعد مرور فترة اعلان الجريدة (استلام الاعلان) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. البدء في اجراءات عقد التاسيس بموجب رسالة كاتب العدل (اللامانع )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8. تقديم كل الاوراق السابقة + عقد الايجار المصدق+ صورة من عقد التاسيس  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "9. التأكد من تغيير البيانت في عقد الايجار ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "9. التأكد من تغيير البيانت في عقد الايجار  ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 13
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً ...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور جوازات و هويات الافراد (الشركاء او المالك) مع الرقم الموحد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة الرخصة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب و تقديم المعاملة للموافقات الامنية ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد الموافقة الأمنية التاكد من الغاء الاقامات السابقة للشريك الجديد او رسالة الا مانع من محل الاقامة سارية المفعول ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع الرسوم المستحقة  اصدار رسالة اللامانع NOC  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. البدء في اجراءات ملحق عقد التاسيس بموجب رسالة كاتب العدل (اللامانع )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. تقديم كل الاوراق السابقة + عقد الايجار المصدق+ صورة من ملحق عقد التاسيس و التأكد من تعديل نسب الشركاء",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. استلام الرخصة عن طريق البريد الالكتروني",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 14
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تعبئة الطلب طباعة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. شهادة حجز الاسم التجاري ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صور جوازات و هويات الافراد (الشركاء او المالك) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب تعديل و تحميل الاسم التجاري الجديد",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد التأكد من الموافقات الخارجية المطلوبة (على حسب النشاط )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. دفع الرسوم المستحقة  اصدار رسالة اللامانع NOC ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. نشر اعلان في الجريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. بعد مرور فترة اعلان الجريدة (استلام الاعلان)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. التأكد من تغيير البيانات في عقد الايجار ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. استلام ملحق عقد التاسيس (في حالة الشركات بموجب رسالة كاتب العدل)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8. استلام الرخصة عن طريق البريد الالكتروني",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 15
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "احلال ورثة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1.تعبئة الطلب طباعة + شهادة الوفاة + صور جوازات و هويات للورثة او المفوض او الموكل بالتوقيع + صورة الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "خطوات المعاملة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. فتح طلب تعديل ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. تعديل اسم المالك او الشريك من بيانات الافراد الى (ورثة ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. ادخال اسم الموكل او المفوض بالتوقيع عن الورثة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. دفع الرسوم المستحقة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. نشر اعلان في الجريدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. بعد مرور فترة اعلان الجريدة (استلام الاعلان)",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. استلام الرخصة عن طريق البريد الالكتروني",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 16
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "أي من الأشكال القانونية التالية:",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "1. الغاء مؤسسة فردية  + وكيل خدمات ",
+        "code": 18
+      },
+      {
+        "message": "2. الغاء (تصفية )الشركات ",
+        "code": 19
+      },
+      {
+        "message": "3. الغاء مؤسسة فردية  + وكيل خدمات (الخدمات الالكترونية )",
+        "code": 20
+      },
+      {
+        "message": "أخرى",
+        "code": -2
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. طلب ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور الجوازات و الهويات للافراد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة من الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الخطوات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تقديم الطلب للحصول على نوذج الاستيفاء و مراجعة الدوائر الحكومية الاخرى (وزارة الموارد البشرية و التوطين + ادارة الجنسية و الاقامة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. سداد الرسوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. نشر اعلان في الجريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. بعد فترة اعلان الجريدة تسليم المعاملة و استلام شهادة الالغاء ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 18
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. مراجعة كاتب العدل + رسالة من الجمعية العمومية للشركة (فسخ شراكة و تصفية )  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. مراجعة مركز الخدمة للحصول على نموذج استيفاء ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. مراجعة الدوائر الحكومية الاخرى (وزارة الموارد البشرية و التوطين + ادارة الجنسية و الاقامة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. مراجعة مدقق حسابات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. دفع الرسوم في الدائرة  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. نشر اعلان في الجريدة لمدة 40 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "7. احضار كل الاوراق المطلوبة ( رسالة كاتب العدل + رسالة مدقق الحسابات +اعلان الجريدة ) ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "8. استلام  شهادة الالغاء ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 19
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الخطوات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. لابد ان يكون للعميل (ربط مستثمر = تفعيل للحساب )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. اخنيار الرخصة ( رقم الرخصة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. الحصول على نموذج الاستيفاء لمراجعة الدوائر الحكومية الاخرى (وزارة الموارد البشرية و التوطين + ادارة الجنسية و الاقامة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. سداد الرسوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. نشر اعلان في الجريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "6. بعد فترة اعلان الجريدة استلام شهادة الالغاء ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 20
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "أي من الأشكال القانونية التالية:",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "1. تنازل المؤسسة الفردية +فروع الشركات ",
+        "code": 22
+      },
+      {
+        "message": "2. تنازل وكيل خدمات ",
+        "code": 23
+      },
+      {
+        "message": "3. تنازل الشركاء ( في حالة الشركات ) ",
+        "code": 24
+      },
+      {
+        "message": "أخرى",
+        "code": -2
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "•المرفقات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. طلب ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور الجوازات و الهويات للافراد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة من الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. رسالة لامانع من محل الاقامة في حالة المنتازل اليه وافد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. رسالة من الجمعية العمومية في حالة فروع الشركات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الخطوات  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. الحصول على نموذج الاستيفاء لمراجعة الدوائر الحكومية الاخرى (وزارة الموارد البشرية و التوطين + ادارة الجنسية و الاقامة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. دفع الرسوم المستحقة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. مراجعة كاتب العدل ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. نشراعلان جريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. بعد فترة اعلان الجريدة تسليم المرفقات و استلام شهادة التنازل ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 22
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً ...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. طلب ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور الجوازات و الهويات للافراد  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة من الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. رسالة لامانع من محل الاقامة في حالة المنتازل اليه وافد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. رسالة من الجمعية العمومية في حالة فروع الشركات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الخطوات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. الحصول على نموذج الاستيفاء لمراجعة الدوائر الحكومية الاخرى (وزارة الموارد البشرية و التوطين + ادارة الجنسية و الاقامة )",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. دفع الرسوم المستحقة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. نشراعلان جريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. بعد فترة اعلان الجريدة تسليم المرفقات و استلام شهادة التنازل",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 23
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "حسناً ...",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "يجب إتباع الخطوات التالية :",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "المرفقات",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. طلب ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. صور الجوازات و الهويات للافراد  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. صورة من الرخصة ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. رسالة لامانع من محل الاقامة في حالة المنتازل اليه وافد ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "الخطوات ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "1. تقديم طلب للموافقة الامنية في حالة المتنازل اليه مقيم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "2. بعد الحصول على الموافقة الامنية دفع الرسوم المستحقة و اعطاء العميل رسالة لا مانع  ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "3. نشراعلان جريدة لمدة 15 يوم ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "4. اتمام اجراءات عقد التاسيس عند كاتب العدل مع تعديل النسب الجديدة للشركاء ",
+        "image": "http://site.com/image.jpg"
+      },
+      {
+        "text": "5. تسليم المرفقات  مع ملحق عقد التأسيس و ارسال الرخصة عن طريق البريد الالكتروني  ",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "شكراً ",
+        "code": 25
+      },
+      {
+        "message": "إعاده ",
+        "code": 24
+      },
+      {
+        "message": "اجراءات اخري",
+        "code": 0
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "text": "شكراً لتواصلك معنا",
+        "image": "http://site.com/image.jpg"
+      }
+    ],
+    "options": [
+      {
+        "message": "إعاده",
+        "code": 0
+      },
+      {
+        "message": "إغلاق",
+        "code": -1
+      }
+    ]
+  }
+]
